@@ -1,4 +1,6 @@
 
+#Startup Study Group 
+
 build with:
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
 
