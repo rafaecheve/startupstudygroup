@@ -21,6 +21,7 @@ So if you'd like to be part of the project, please check out the [roadmap](https
 - [Telescope Roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap)
 - [Telescope Meta](http://meta.telesc.pe/) – Discussions about Telescope
 
+
 ### Developing on Nitrous.IO
 
 Start hacking on this app on
